@@ -4,6 +4,8 @@ import {
     countdown,
     countdownCompleted
   } from './quiz';
+
+  import './style.css';
   
   document.getElementById("opt1").addEventListener("click", () => {
     answerButtonClickHandler(questions[currentIndex].options[0]);

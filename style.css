@@ -15,7 +15,8 @@
 
 #content,
 #result {
-  background: url("./bg.jpeg");
+  /* background-image: url('images/background.jpg'); */
+  background-image: url("bg.jpeg");
   color: azure;
   height: 100%;
   display: flex;
